@@ -9,7 +9,7 @@
 - ​Validation: Ensuring data integrity at both ends.
 ​
 ## Tech Stack
-​- **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
+- **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
 - **Backend:** Python, Flask (REST API)
 - ​**Database:** SQLite
 - **Tools:** Git, GitHub, VS Code
