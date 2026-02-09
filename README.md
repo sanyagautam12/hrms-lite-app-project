@@ -18,8 +18,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone
-https://github.com/sanyagautam12/hrms-lite-app-project.git
+git clone https://github.com/sanyagautam12/hrms-lite-app-project.git
 cd hrms-lite-app-project
 ```
 
@@ -62,6 +61,6 @@ python app.py
 * Structuring a repository for professional hand-off.
 
 ## Author
-Sanya Gautam
-B.Tech CSE Student
+Sanya Gautam. 
+B.Tech CSE Student. 
 *GitHub: https://github.com/sanyagautam12*
