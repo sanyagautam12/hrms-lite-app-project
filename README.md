@@ -3,9 +3,9 @@
 ## Project Overview
 ​HRMS Lite is a lightweight, web-based Human Resource Management System designed to handle essential HR operations for small organizations. The application empowers admins to manage employee records and track daily attendance through a clean, intuitive interface.
 ​This project was developed as a full-stack coding assignment to demonstrate proficiency in:
-​- Frontend Development: Clean UI and DOM manipulation.
-​- Backend API Design: Creating robust endpoints.
-​- Database Handling: Data persistence and retrieval.
+- Frontend Development: Clean UI and DOM manipulation.
+- Backend API Design: Creating robust endpoints.
+- Database Handling: Data persistence and retrieval.
 - ​Validation: Ensuring data integrity at both ends.
 ​
 ## Tech Stack
