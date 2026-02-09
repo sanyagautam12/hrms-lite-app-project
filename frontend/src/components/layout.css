@@ -1,0 +1,26 @@
+.dashboard-header {
+  width: 100%;
+  text-align: center;
+  padding: 40px 20px;
+  margin-bottom: 24px;
+}
+
+.dashboard-header h1 {
+  font-size: 36px;
+  font-weight: 800;
+  color: #ffffff; /* FORCE visible */
+}
+
+.dashboard-header p {
+  margin-top: 8px;
+  font-size: 16px;
+  color: #c7d2fe;
+}
+
+/* Main content wrapper */
+.dashboard-content {
+  max-width: 1100px;
+  margin: auto;
+  display: grid;
+  gap: 32px;
+}

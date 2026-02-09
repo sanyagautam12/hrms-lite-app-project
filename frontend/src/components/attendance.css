@@ -1,0 +1,31 @@
+.status-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  margin-top: 24px;
+}
+
+.status-box {
+  padding: 18px;
+  border-radius: 12px;
+}
+
+.present {
+  background: #f0fdf4;
+  border-left: 6px solid #22c55e;
+}
+
+.absent {
+  background: #fef2f2;
+  border-left: 6px solid #ef4444;
+}
+
+.status-box h3 {
+  color: #111827;
+  margin-bottom: 12px;
+}
+
+.status-box li {
+  padding: 8px 0;
+  border-bottom: 1px solid #e5e7eb;
+}

@@ -1,0 +1,17 @@
+.card {
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 24px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.18);
+}
+
+.card h2 {
+  color: #111827; /* DARK TEXT */
+  font-weight: 600;
+}
+
+.card p,
+.card li,
+.card label {
+  color: #374151;
+}
