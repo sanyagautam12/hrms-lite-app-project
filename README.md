@@ -61,6 +61,6 @@ python app.py
 * Structuring a repository for professional hand-off.
 
 ## Author
-Sanya Gautam. 
-B.Tech CSE Student. 
+**Sanya Gautam**<br>
+B.Tech CSE Student<br> 
 *GitHub: https://github.com/sanyagautam12*
